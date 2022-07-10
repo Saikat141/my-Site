@@ -148,7 +148,7 @@ p{
 .bar{
 
   font-family: 'Open Sans',sans-serif;
-  min-height: 20vh;
+  min-height: 2vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -231,4 +231,18 @@ p{
   background-image: -o-linear-gradient(top, #20d468, #3498db);
   background-image: linear-gradient(to bottom, #20d468, #3498db);
   text-decoration: none;
+}
+.hob{
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 1.754rem;
+  color: #B7D3DF;
+  text-align: left;
+  padding-left: 670px;
+  position: relative;
+
+}
+.hob-img{
+
+  width: 20%;
+
 }
