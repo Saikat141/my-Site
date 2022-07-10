@@ -24,22 +24,38 @@ h1{
 
 
 
+
 }
 
-h2{
 
-
+.pro{
   font-family: 'Montserrat',sans-serif;
 
   font-size: 2.5rem;
   color: #66BFBF;
   font-weight: normal;
+
+
+}
+
+h2{
+
+
+  font-family: 'Montserrat', sans-serif;
+
+  font-family: 'Sacramento',cursive;
+  color: white;
+
+  font-size: 2.5rem;
+
+
 }
 
 h3{
 
-  font-family: 'Montserrat',sans-serif;
-  color: #66BFBF;
+  font-family: 'Edu SA Beginner', cursive;
+
+  color: white;
 }
 .top{
 
@@ -86,5 +102,43 @@ position: relative;
 
  width: 50%;
  margin: auto;
+ text-align: left;
 
+}
+.hello{
+  font-family: 'Montserrat', sans-serif;
+
+  font-family: 'Sacramento',cursive;
+  color: white;
+  font-size: 4.265rem;
+
+}
+
+.skill-img{
+
+    width: 25%;
+    height: 25%;
+    float: left;
+    margin-right: 60px;
+}
+hr{
+
+  border-style: none;
+  border-top-style: dotted;
+  border-color: white;
+
+  width: 5%;
+  border-width: 8px;
+}
+p{
+
+  font-family: 'Edu TAS Beginner', cursive;
+  font-size: 1.754rem;
+  color: #B7D3DF;
+}
+.footer{
+  text-decoration: none;
+
+  font-size: 20px;;
+  color: black;
 }
