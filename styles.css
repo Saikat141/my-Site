@@ -208,3 +208,27 @@ p{
   transform: translateX(50%) rotate(45deg);
   border-radius: 2px;
 }
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  text-shadow: 1px 1px 3px #0b4f30;
+  font-family: Georgia;
+  color: #ffffff;
+  font-size: 23px;
+  background: #3ba164;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+  margin: 5px 5px;
+
+}
+
+.btn:hover {
+  background: #20d468;
+  background-image: -webkit-linear-gradient(top, #20d468, #3498db);
+  background-image: -moz-linear-gradient(top, #20d468, #3498db);
+  background-image: -ms-linear-gradient(top, #20d468, #3498db);
+  background-image: -o-linear-gradient(top, #20d468, #3498db);
+  background-image: linear-gradient(to bottom, #20d468, #3498db);
+  text-decoration: none;
+}
